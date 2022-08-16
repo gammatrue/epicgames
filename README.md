@@ -1,2 +1,2 @@
 # epicgames
-visit epicgames and copy-paste the code to adguard
+visit https://epicgames.com and copy-paste the code to adguard
